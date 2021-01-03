@@ -1,4 +1,4 @@
 # React-contacts-page
 
-Contacts Page created using React frameworks
+Contact Page created using React framework
 
